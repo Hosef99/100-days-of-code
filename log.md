@@ -6,9 +6,12 @@
 - Create the skeleton for a bible progress app
 
 **Today's Progress:**
-
+- Made a half completed working bible progress website. 
+- Implemented chapter searching and marking using cookies and class toggles.
 
 **Thoughts:** 
-
+Initially tried to use mongoose and several back end things to do, but eventually found out that I don't even need to use back end, working with front end is good enough.
+Learnt cookies, some jQuery and a lot of JS objects.
 
 **Link to work:** 
+[Bible Progress Github Page](https://github.com/Hosef99/bible-progress)
