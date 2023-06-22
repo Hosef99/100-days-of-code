@@ -1,9 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jun 22th, 2023
+## Day 1: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**To Do**
+- Create the skeleton for a bible progress app
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:**
 
-**Link to work:** [Calculator App](http://www.example.com)
+
+**Thoughts:** 
+
+
+**Link to work:** 
