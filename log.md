@@ -31,3 +31,17 @@ Didn't knew that cookies have a size limit on browsers, spent hours literally fi
 **Link to work:** 
 [Bible Progress Github Page](https://github.com/Hosef99/bible-progress)
 [Bible Progress Website](https://hosef99.github.io/bible-progress/#)
+
+## Day 3: 
+
+**Today's Progress:**
+- Reformatted the whole cookie thing
+- Fixed too many bugs for the list view
+- Added scrollbars so list view looks better
+
+**Thoughts:** 
+Ah I am finally finished with this project, I can rest peacefully now... Next time I should probably plan the whole project out properly before doing it to prevent situations like this happening :D
+
+**Link to work:** 
+[Bible Progress Github Page](https://github.com/Hosef99/bible-progress)
+[Bible Progress Website](https://hosef99.github.io/bible-progress/#)
