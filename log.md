@@ -45,3 +45,26 @@ Ah I am finally finished with this project, I can rest peacefully now... Next ti
 **Link to work:** \
 [Bible Progress Github Page](https://github.com/Hosef99/bible-progress)\
 [Bible Progress Website](https://hosef99.github.io/bible-progress/#)
+
+## Day 4: 
+
+**Today's Progress:**
+- Started a new project, a task managing app project
+- Planned the project, and created the barebone of the project
+
+**Thoughts:** \
+This will be a project made using NodeJS, Express, Mongoose. So hopefully I am able to make this work as I'm quite new to backend. :D
+
+**Link to work:** \
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
+
+## Day 5: 
+
+**Today's Progress:**
+- Added a function to add task lists into the app 
+
+**Thoughts:** \
+I am thinking about how to deal with the post/get stuff at this point. It is a bit confusing and hard for me, but I'm sure that I can manage to finish this project!
+
+**Link to work:** \
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
