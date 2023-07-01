@@ -68,3 +68,23 @@ I am thinking about how to deal with the post/get stuff at this point. It is a b
 
 **Link to work:** \
 [Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
+
+## Day 6:
+
+**Today's Progress** \
+No progress
+
+**Thoughts** \
+I am sad
+
+**Link to work** \
+None...
+
+## Day 7:
+
+**Today;s Progress:**
+- Get items from database when accessing home route
+- Made some EJS template for future pages
+
+**Link to work** \
+[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
