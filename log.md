@@ -82,9 +82,21 @@ None...
 
 ## Day 7:
 
-**Today;s Progress:**
+**Today's Progress:**
 - Get items from database when accessing home route
 - Made some EJS template for future pages
+
+**Link to work** \
+[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+
+## Day 8:
+
+**Today's Progress:**
+- Made it so that items can be deleted and modified 
+- dealt with some css bugs 
+
+**Thoughts**
+I am feeling quite well dealing with this project so far, it seems like the main functionality of it is already finished.
 
 **Link to work** \
 [Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
