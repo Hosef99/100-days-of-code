@@ -100,3 +100,11 @@ I am feeling quite well dealing with this project so far, it seems like the main
 
 **Link to work** \
 [Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+
+## Day 9:
+
+**Today's Progress:**
+- Implemented list deleting functionality
+
+**Link to work** \
+[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
