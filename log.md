@@ -95,7 +95,7 @@ None...
 - Made it so that items can be deleted and modified 
 - dealt with some css bugs 
 
-**Thoughts**
+**Thoughts** \
 I am feeling quite well dealing with this project so far, it seems like the main functionality of it is already finished.
 
 **Link to work** \
@@ -105,6 +105,17 @@ I am feeling quite well dealing with this project so far, it seems like the main
 
 **Today's Progress:**
 - Implemented list deleting functionality
+
+**Link to work** \
+[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+
+## Day 10:
+
+**Today's Progress:**
+- Changed the CSS for the left side list using bootstrap
+
+**Thoughts** \
+Kinda nani, I just yeeted in A TON of different bootstrap code and they somehow just worked!!!!
 
 **Link to work** \
 [Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
