@@ -119,3 +119,28 @@ Kinda nani, I just yeeted in A TON of different bootstrap code and they somehow 
 
 **Link to work** \
 [Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+
+## Day 12:
+
+**Today's Progress**
+- Took it slow and found some bugs for the bible-progress app
+- Created README.md files for bible-progress
+
+**Thoughts** \
+Writing README files is a fun thing to do, it do be kinda satisfying when I finish one. Going to actually learn react tomorrow!!!
+
+**Link to work** \
+[Bible Progress Github Page](https://github.com/Hosef99/bible-progress) \
+[Bible Progress Website](https://hosef99.github.io/bible-progress/#)
+
+## Day 13:
+
+**Today's Progress**
+- Started to learn React.js
+- Created a half-functioning blog website
+
+**Thoughts** \
+React is fun, and probably addicting. It is so much better than vanilla web dev TAT
+
+**Link to work** \
+[Blog Website Github Page](https://github.com/Hosef99/blog-website-v2)
