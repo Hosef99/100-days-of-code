@@ -87,7 +87,7 @@ None...
 - Made some EJS template for future pages
 
 **Link to work** \
-[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
 
 ## Day 8:
 
@@ -99,7 +99,7 @@ None...
 I am feeling quite well dealing with this project so far, it seems like the main functionality of it is already finished.
 
 **Link to work** \
-[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
 
 ## Day 9:
 
@@ -107,7 +107,7 @@ I am feeling quite well dealing with this project so far, it seems like the main
 - Implemented list deleting functionality
 
 **Link to work** \
-[Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
 
 ## Day 10:
 
@@ -116,6 +116,18 @@ I am feeling quite well dealing with this project so far, it seems like the main
 
 **Thoughts** \
 Kinda nani, I just yeeted in A TON of different bootstrap code and they somehow just worked!!!!
+
+**Link to work** \
+[Task Managing App Github Page](https://github.com/Hosef99/task-managing-app)
+
+## Day 11:
+
+**Today's Progress:**
+- Changed the CSS for the right side list using bootstrap
+- Added a title and a simple svg logo
+
+**Thoughts** \
+This website now looks pretty nice with the upgraded CSS! I'll start learning how to use react tomorrow and see how it goes!
 
 **Link to work** \
 [Task Managing App Github Page](<https://github.com/Hosef99/task-managing-app>)
@@ -127,11 +139,11 @@ Kinda nani, I just yeeted in A TON of different bootstrap code and they somehow 
 - Created README.md files for bible-progress
 
 **Thoughts** \
-Writing README files is a fun thing to do, it do be kinda satisfying when I finish one. Going to actually learn react tomorrow!!!
+Writing README files is a fun thing to do, it do be kinda satisfying when I finish one. Going to actually learn react tomorrow...
 
 **Link to work** \
 [Bible Progress Github Page](https://github.com/Hosef99/bible-progress) \
-[Bible Progress Website](https://hosef99.github.io/bible-progress/#)
+[Bible Progress Website](https://hosef99.github.io/bible-progress/)
 
 ## Day 13:
 
