@@ -156,3 +156,25 @@ React is fun, and probably addicting. It is so much better than vanilla web dev 
 
 **Link to work** \
 [Blog Website Github Page](https://github.com/Hosef99/blog-website-v2)
+
+## Day 14:
+
+**Today's Progress**
+- Learnt React in more details, specifically in the hooks part
+
+**Thoughts** \
+Didn't really did any project for today, but I only had this much time to work with today... 
+
+**Link to work** \
+
+## Day 15:
+
+**Today's Progress**
+- Tried doing some mapping and hooks
+- Followed a course and did a small keeper prototype
+
+**Thoughts** \
+Learned quite a lot today on specifically on structuring the whole document and not over complicating stuff.
+
+**Link to work** \
+[Keeper Github Page](https://github.com/Hosef99/keeper)
