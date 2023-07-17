@@ -178,3 +178,14 @@ Learned quite a lot today on specifically on structuring the whole document and 
 
 **Link to work** \
 [Keeper Github Page](https://github.com/Hosef99/keeper)
+
+## Day 16:
+
+**Today's Progress**
+- Added a button that expands into a form to add a new note
+
+**Thoughts** \
+I managed to make it work! That's kinda hard and I probably made a mess while doing all that expanding and unexpanding form things. But I guess if it works it works... Tomorrow I would like to start working on the backend and see what can I do with that.
+
+**Link to work** \
+[Keeper Github Page](https://github.com/Hosef99/keeper)
