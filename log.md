@@ -189,3 +189,15 @@ I managed to make it work! That's kinda hard and I probably made a mess while do
 
 **Link to work** \
 [Keeper Github Page](https://github.com/Hosef99/keeper)
+
+## Day 17:
+
+**Today's Progress**
+- Implemented delete note functionality
+
+**Thoughts** \
+Ok, I did not do the backend, but I did make the delete note functionality and deployed the project to Github Pages!!!!!! I'll focus more on frontend for now, since I think I quite like the frontend part.
+
+**Link to work** \
+[Keeper Github Page](https://github.com/Hosef99/keeper) \
+[Keeper Github Website](https://hosef99.github.io/keeper/)
